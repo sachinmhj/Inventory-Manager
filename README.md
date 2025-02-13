@@ -37,4 +37,5 @@ If you prefer to clone the repository and install it locally, follow these steps
 1. Clone the repository:
    ```bash
    git clone https://github.com/sachinmhj/Inventory-Manager.git
+   ```
 
