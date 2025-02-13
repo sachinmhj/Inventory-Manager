@@ -32,9 +32,8 @@ pip install inventry-manage
 
 ### Alternative: Install via Git Clone
 
-If you prefer to clone the repository and install it locally, follow these steps:
+If you prefer to clone the repository and install it locally:
 
-1. Clone the repository:
 ```bash
 git clone https://github.com/sachinmhj/Inventory-Manager.git
 ```
