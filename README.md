@@ -24,6 +24,11 @@ This is an Inventory Management Package built in Python. It provides a class-bas
 
 ## Installation
 
+You can install the package via `pip` from the Python Package Index (PyPI):
+
+```bash
+pip install inventry-manage
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/sachinmhj/Inventory-Manager.git
