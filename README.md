@@ -28,3 +28,13 @@ You can install the package via `pip` from the Python Package Index (PyPI):
 
 ```bash
 pip install inventry-manage
+```
+
+### Alternative: Install via Git Clone
+
+If you prefer to clone the repository and install it locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sachinmhj/Inventory-Manager.git
+
